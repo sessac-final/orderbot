@@ -1,0 +1,10 @@
+python-dotenv
+streamlit
+openai==0.28
+google-generativeai
+vertexai
+google.auth
+langchain
+numexpr
+langchain-core 
+langchain-google-vertexai
