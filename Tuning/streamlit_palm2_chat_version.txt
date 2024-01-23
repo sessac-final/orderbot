@@ -1,0 +1,5 @@
+1. streamlit_palm2_chat_v1.py : 초기 버전
+2. streamlit_palm2_chat_v2.py : 히스토리 코드 추가
+3. streamlit_palm2_chat_v3.py : 히스토리 코드 변경, 계산 코드 추가
+4. streamlit_palm2_chat_v4.py : 음성 인식 코드 추가
+5. streamlit_palm2_chat_v5.py : 계산 코드 변경, 음성 인식 코드 분리, 데이터베이스 코드 추가
